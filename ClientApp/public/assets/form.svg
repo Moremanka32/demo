@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 994.3 905.68">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-2,
+            .cls-3,
+            .cls-4,
+            .cls-5,
+            .cls-6,
+            .cls-7{
+                font-size:258.39px;
+                font-family:Arial-Black, Arial Black;
+                font-weight:800;
+            }
+            .cls-1{
+                fill:#fff;
+            }
+            .cls-2{
+                fill:#b08dc7;
+            }
+            .cls-3,
+            .cls-4,
+            .cls-5,
+            .cls-6,
+            .cls-7{
+                fill:none;
+                stroke-miterlimit:10;
+            }
+            .cls-3,
+            .cls-6{
+                stroke:#fff;
+            }
+            .cls-4,
+            .cls-5,
+            .cls-7{
+                stroke:#b08dc7;
+            }
+            .cls-4{
+                stroke-width:3px;
+            }
+            .cls-6,
+            .cls-7{
+                stroke-width:2px;
+            }
+        </style>
+    </defs>
+    <title>form</title>
+    <g id="Layer_2">
+        <g id="Layer_1-2">
+            <text class="cls-1" transform="matrix(0.97, -0.26, 0.26, 0.97, 60.99, 436.43)">FORM</text>
+            <text class="cls-2" transform="matrix(0.97, -0.26, 0.26, 0.97, 112.23, 627.68)">FORM</text>
+            <text class="cls-3" transform="matrix(0.97, -0.26, 0.26, 0.97, 163.48, 818.92)">FORM</text>
+            <text class="cls-4" transform="matrix(0.97, -0.26, 0.26, 0.97, 64.99, 431.43)">FORM</text>
+            <text class="cls-5" transform="matrix(0.97, -0.26, 0.26, 0.97, 57.99, 440.43)">FORM</text>
+            <text class="cls-6" transform="matrix(0.97, -0.26, 0.26, 0.97, 113.24, 632.68)">FORM</text>
+            <text class="cls-3" transform="matrix(0.97, -0.26, 0.26, 0.97, 108.24, 625.68)">FORM</text>
+            <text class="cls-7" transform="matrix(0.97, -0.26, 0.26, 0.97, 161.48, 827.92)">FORM</text>
+            <text class="cls-6" transform="matrix(0.97, -0.26, 0.26, 0.97, 168.48, 819.92)">FORM</text>
+        </g>
+    </g>
+</svg>

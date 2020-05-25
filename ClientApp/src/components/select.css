@@ -1,0 +1,33 @@
+select {
+    appearance: none;
+    background-image: url('/assets/arrow.svg');
+    background-size: 15px 15px;
+    background-position-x: 175px;
+    background-position-y: 3px;
+    background-repeat: no-repeat;
+    background-color: #1D1B1C;
+    position: relative;
+    width:200px;
+    height:24px;
+    padding:4px;
+    box-sizing: border-box;
+    margin-left:10px;
+    border-radius: 0;
+    outline: none;
+    border:1px solid white;
+    color:white;
+    font-size: 16px;
+    font-weight:400;
+    line-height:12px;
+    z-index: 1;
+    cursor: pointer;
+}
+select:focus ~ .after-input,
+select:hover ~ .after-input{
+    background-color: #BA9BC9;
+}
+select:hover,
+select:focus{
+    transform:translate(2px, -2px);
+    outline: none;
+}

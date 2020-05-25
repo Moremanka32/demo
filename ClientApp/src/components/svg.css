@@ -1,0 +1,75 @@
+#svg{
+    min-width: 70%;
+    position: absolute;
+    bottom: -7%;
+    left: -27%;
+}
+svg{
+    width: inherit;
+}
+text{
+    font-size: 258.39px;
+    font-family: Arial-Black, Arial Black;
+    font-weight:800;
+}
+.cls-1{
+    fill: #fff;
+    transform: matrix(0.97, -0.26, 0.26, 0.97, 60.99, 436.43);
+}
+.cls-2{
+    fill: #b08dc7;
+    transform: matrix(0.97, -0.26, 0.26, 0.97, 112.23, 627.68);
+}
+.cls-3{
+    transform: matrix(0.97, -0.26, 0.26, 0.97, 163.48, 818.92);
+}
+.cls-2-2{
+    transform: matrix(0.97, -0.26, 0.26, 0.97, 108.24, 625.68);
+}
+.cls-1-1{
+    transform: matrix(0.97, -0.26, 0.26, 0.97, 64.99, 431.43);
+}
+.cls-1-2{
+    transform: matrix(0.97, -0.26, 0.26, 0.97, 57.99, 440.43);
+}
+.cls-2-1{
+    transform: matrix(0.97, -0.26, 0.26, 0.97, 113.24, 632.68);
+}
+.cls-3-2{
+    transform: matrix(0.97, -0.26, 0.26, 0.97, 168.48, 819.92);
+}
+.cls-3-1{
+    transform: matrix(0.97, -0.26, 0.26, 0.97, 161.48, 827.92);
+}
+.cls-3,
+.cls-2-2,
+.cls-1-1,
+.cls-1-2,
+.cls-2-1,
+.cls-3-2,
+.cls-3-1{
+    fill: none;
+    stroke-miterlimit: 10;
+}
+.cls-3,
+.cls-3-2,
+.cls-2-2,
+.cls-2-1{
+    stroke: #fff;
+}
+.cls-1-1,
+.cls-1-2,
+.cls-3-1{
+    stroke: #b08dc7;
+}
+.cls-1-1{
+    stroke-width: 3px;
+}
+.cls-2-1,
+.cls-3-2,
+.cls-3-1,
+.cls-1-2,
+.cls-3,
+.cls-2-2{
+    stroke-width: 2px;
+}
